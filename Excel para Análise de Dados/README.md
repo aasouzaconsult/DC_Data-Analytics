@@ -18,3 +18,5 @@ Alguns exemplos de planilhas utilizadas para analisar dados.
 - [Link 2](https://templates.office.com/en-us/annual-financial-report-tm00000051)
 - [Link 3](https://www.vertex42.com/ExcelTemplates/)
 - [Link 4](https://zeplanilha.com/dashboard/modelo-planilha-dashboard-painel-de-controle/)
+
+[![author](https://img.shields.io/badge/DigitalCollege-red.svg)](https://digitalcollege.com.br/) [![Language](https://img.shields.io/badge/AlexSouza-yellow.svg)](https://medium.com/blog-do-zouza)
