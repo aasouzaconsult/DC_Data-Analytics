@@ -1,5 +1,11 @@
 # Formação de Data Analytics - Turma 1 (Sul) - Digital College
 
+## Aulas
+- [Apresentação](https://github.com/aasouzaconsult/DC_Data-Analytics_01/tree/main/Slides%20Aula)
+- [Arquivos (bases de dados)](https://github.com/aasouzaconsult/DC_Data-Analytics_01/tree/main/Arquivos)
+- [Scripts SQL]()
+- [Scripts Python]()
+
 ## Ferramentas
 - [BR Modelo - online (Modelagem Conceitual e Lógica)](https://app.brmodeloweb.com/)
 - [PostgreSQL] (https://www.postgresql.org/)
