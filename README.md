@@ -8,3 +8,6 @@
 
 ## Documentação
 - [Documentação PostgreSQL] (https://www.postgresql.org/docs/14/index.html)
+
+## Links úteis
+- [Discord - Canal de Comunicação] (https://discord.gg/kP4D7QGNVg)
