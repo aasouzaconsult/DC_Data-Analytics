@@ -1,8 +1,8 @@
 # Instalação passo a passo do PostreSQL 14
 
 ## Links
-- [Download](https://sbp.enterprisedb.com/getfile.jsp?fileid=1258328)
-- [Vídeo Explicando](https://www.youtube.com/watch?v=PmDm_kvSbSo)
+- [Download 14.7] (https://sbp.enterprisedb.com/getfile.jsp?fileid=1258328)
+- [Vídeo Explicando] (https://www.youtube.com/watch?v=PmDm_kvSbSo)
 
 ## Documentação
 - [Documentação PostgreSQL] (https://www.postgresql.org/docs/14/index.html)
