@@ -12,11 +12,8 @@ Importação e exportação de dados em diferentes formatos
 
 O *Excel* é uma ferramenta poderosa para análise de dados, especialmente para aqueles que estão iniciando na área e ainda não estão familiarizados com ferramentas mais avançadas. Com sua interface intuitiva e grande variedade de recursos, o Excel pode ajudar a simplificar a análise de dados e fornecer insights valiosos para tomadas de decisão informadas.
 
-----
-
-Alguns exemplos de planilhas utilizadas para analisar dados.
-
 ## Onde encontrar:
+Alguns exemplos de planilhas utilizadas para analisar dados.
 - [Link 1](https://www.smartsheet.com/free-excel-dashboard-templates)
 - [Link 2](https://templates.office.com/en-us/annual-financial-report-tm00000051)
 - [Link 3](https://www.vertex42.com/ExcelTemplates/)
