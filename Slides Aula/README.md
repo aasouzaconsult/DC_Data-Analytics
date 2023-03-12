@@ -1,7 +1,4 @@
-# Grand Cru Datalake
-Repositório do projeto Grand Cru Datalake
+# Slides das Aulas
+Será sempre disponibilizado até 1 dia após a aula (sempre atualizando o anterior - incremental)
 
-[Confira o Case Grand Cru](https://compass.uol/front/cases/grand-cru) *(site da compass.uol)*
-
-
-[![author](https://img.shields.io/badge/GrandCru-red.svg)](https://www.grandcru.com.br/) [![Language](https://img.shields.io/badge/Compass.UOL-yellow.svg)](https://compass.uol/) 
+[![author](https://img.shields.io/badge/DigitalCollege-red.svg)](https://digitalcollege.com.br/) [![Language](https://img.shields.io/badge/AlexSouza-yellow.svg)](https://medium.com/blog-do-zouza) 
