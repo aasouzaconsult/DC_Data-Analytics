@@ -11,3 +11,6 @@
 
 ## Links úteis
 - [Discord - Canal de Comunicação] (https://discord.gg/kP4D7QGNVg)
+
+
+[![author](https://img.shields.io/badge/DigitalCollege-red.svg)](https://digitalcollege.com.br/) [![Language](https://img.shields.io/badge/AlexSouza-yellow.svg)](https://medium.com/blog-do-zouza)
