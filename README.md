@@ -8,8 +8,8 @@
 
 ## Ferramentas
 - [BR Modelo - online (Modelagem Conceitual e Lógica)](https://app.brmodeloweb.com/)
-- [PostgreSQL] (https://www.postgresql.org/)
-  - [download] (https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+- [PostgreSQL](https://www.postgresql.org/)
+  - [download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 - **Auxiliares**
   - [PostgreSQL online (só para testes)](https://sqliteonline.com/)
 
