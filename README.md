@@ -7,7 +7,12 @@
 - [Scripts Python](https://github.com/aasouzaconsult/DC_Data-Analytics_01/blob/main/README.md)
 
 ## Ferramentas
-- [BR Modelo - online (Modelagem Conceitual e Lógica)](https://app.brmodeloweb.com/)
+- Modelagem Conceitual
+  - [BR Modelo - online](https://app.brmodeloweb.com/)
+  - [BR Modelo - desktop](https://sourceforge.net/projects/brmodelo/)
+- Modelagem Lógica
+  - [BR Modelo - online](https://app.brmodeloweb.com/)
+  - [MySQL Workbench - desktop](https://dev.mysql.com/downloads/workbench/)
 - [PostgreSQL](https://www.postgresql.org/)
   - [download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 - **Auxiliares**
