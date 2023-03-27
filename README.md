@@ -27,5 +27,7 @@
 ## Links úteis
 - [Discord - Canal de Comunicação] (https://discord.gg/kP4D7QGNVg)
 
+## Feedbacks e impressões
+- [Fase 1](https://easyretro.io/publicboard/CW2kckTmvghjpmjGGmq39rflxkQ2/ff10a256-b4e3-40e5-81f2-0da1dda7e3e7)
 
 [![author](https://img.shields.io/badge/DigitalCollege-red.svg)](https://digitalcollege.com.br/) [![Language](https://img.shields.io/badge/AlexSouza-yellow.svg)](https://medium.com/blog-do-zouza)
