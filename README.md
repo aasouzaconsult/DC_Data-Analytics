@@ -2,6 +2,7 @@
 
 ## Aulas
 - [Apresentação](https://github.com/aasouzaconsult/DC_Data-Analytics_01/tree/main/Slides%20Aula)
+  - [Vídeo - Introdução a SQL com PostgreSQL](https://www.youtube.com/watch?v=Y65qqzwAe5c)
 - [Arquivos (bases de dados)](https://github.com/aasouzaconsult/DC_Data-Analytics_01/tree/main/Arquivos)
 - [Scripts SQL](https://github.com/aasouzaconsult/DC_Data-Analytics_01/blob/main/README.md)
 - [Scripts Python](https://github.com/aasouzaconsult/DC_Data-Analytics_01/blob/main/README.md)
