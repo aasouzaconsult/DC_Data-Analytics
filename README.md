@@ -31,6 +31,7 @@
 ## Feedbacks e impressões
 - [Fase 1](https://easyretro.io/publicboard/CW2kckTmvghjpmjGGmq39rflxkQ2/ff10a256-b4e3-40e5-81f2-0da1dda7e3e7)
 
+
 -----------
 **Alex Souza**
 - [Portfólio de Serviços](https://github.com/aasouzaconsult/Cientista-de-Dados)
@@ -38,7 +39,6 @@
 - [Linkedin](https://www.linkedin.com/in/alex-souza/)
 - [Instagram](https://www.instagram.com/alexsouzamsc/)
 
-------
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/29084827/164712340-6b03015f-a428-4731-b1b9-a5605de203b2.svg)
 
 [![author](https://img.shields.io/badge/DigitalCollege-red.svg)](https://digitalcollege.com.br/) [![Language](https://img.shields.io/badge/AlexSouza-yellow.svg)](https://medium.com/blog-do-zouza)
