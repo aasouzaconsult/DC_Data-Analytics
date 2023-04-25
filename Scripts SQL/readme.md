@@ -5,4 +5,4 @@
 - [Script (PostgreSQL)](https://gist.github.com/aasouzaconsult/7ef239cbe96899e1bb64a6e2329fff39)
 
 ## Resolução - Desafio SQL (11 Questões)
-- [Scripr (PostgreSQL)](https://gist.github.com/aasouzaconsult/2c8d3f17422e9214f8b6b8b5124afdf8)
+- [Script (PostgreSQL)](https://gist.github.com/aasouzaconsult/2c8d3f17422e9214f8b6b8b5124afdf8)
