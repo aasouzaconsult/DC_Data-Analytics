@@ -1,50 +1,50 @@
 # Formação de Data Analytics - Turma 1 (Sul) - Digital College
 
-## Aulas
-- [Apresentações](https://github.com/aasouzaconsult/DC_Data-Analytics_01/tree/main/Slides%20Aula)
-  - [Vídeo - Introdução a SQL com PostgreSQL](https://www.youtube.com/watch?v=Y65qqzwAe5c)
-- [Arquivos (bases de dados)](https://github.com/aasouzaconsult/DC_Data-Analytics_01/tree/main/Arquivos)
-- [Scripts SQL](https://github.com/aasouzaconsult/DC_Data-Analytics_01/tree/main/Scripts%20SQL)
-- [Scripts Python](https://github.com/aasouzaconsult/DC_Data-Analytics_01/tree/main/Scripts%20Python)
-- Livros
+## Ferramentas, Documentação e Links úteis
+- **Livros**
   - [Sistemas de Banco de Dados](https://www.amazon.com.br/Sistemas-Banco-Dados-Ramez-Elmasri/dp/8543025001)
   - [e-book SQL](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/Ebook%20-%20SQL/SQL.pdf)
-
-## Ferramentas
-- Modelagem Conceitual
+- **Modelagem Conceitual**
   - [BR Modelo - online](https://app.brmodeloweb.com/)
   - [BR Modelo - desktop](https://sourceforge.net/projects/brmodelo/)
-- Modelagem Lógica
+- **Modelagem Lógica**
   - [BR Modelo - online](https://app.brmodeloweb.com/)
   - [MySQL Workbench - desktop](https://dev.mysql.com/downloads/workbench/)
-- [PostgreSQL](https://www.postgresql.org/)
-  - [download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
-- **Auxiliares**
+- **[PostgreSQL](https://www.postgresql.org/)**
+  - [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+  - [Documentação PostgreSQL] (https://www.postgresql.org/docs/14/index.html)
+- **Links úteis**
   - [PostgreSQL online (só para testes)](https://sqliteonline.com/)
+  - [Discord - Canal de Comunicação] (https://discord.gg/kP4D7QGNVg)
+- **Feedbacks e impressões**
+  - [Fase 1](https://easyretro.io/publicboard/CW2kckTmvghjpmjGGmq39rflxkQ2/ff10a256-b4e3-40e5-81f2-0da1dda7e3e7)
 
-## Documentação
-- [Documentação PostgreSQL] (https://www.postgresql.org/docs/14/index.html)
-
-## Links úteis
-- [Discord - Canal de Comunicação] (https://discord.gg/kP4D7QGNVg)
-
-## Feedbacks e impressões
-- [Fase 1](https://easyretro.io/publicboard/CW2kckTmvghjpmjGGmq39rflxkQ2/ff10a256-b4e3-40e5-81f2-0da1dda7e3e7)
-
-
+-----------
 ## Unidade 1
 
 ### Módulo 1 (Banco de Dados Relacionais)
   - [Apresentação](https://github.com/aasouzaconsult/DC_Data-Analytics_01/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M1%20-%20BD%20Relacionais%20-%20Alex%20Souza.pdf)
   - [Scripts](https://github.com/aasouzaconsult/DC_Data-Analytics_01/tree/main/Scripts%20SQL)
+  - Auxiliares
+    - [Vídeo - Introdução a SQL com PostgreSQL](https://www.youtube.com/watch?v=Y65qqzwAe5c)
 
 ### Módulo 2 (Banco de Dados Dimensionais)
   - [Apresentação](https://github.com/aasouzaconsult/DC_Data-Analytics_01/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M2%20-%20BD%20Dimensionais%20-%20Alex%20Souza.pdf)
-    - Material de Estudo - [Link](https://medium.com/@aasouzaconsult/aprofundando-em-data-warehouse-65ed2bca9a33) 
+  - Material de Estudo - [Link](https://medium.com/@aasouzaconsult/aprofundando-em-data-warehouse-65ed2bca9a33) 
 
 ### Módulo 3
 
 ### Módulo 4
+
+-----------
+## Unidade 2
+
+-----------
+## Unidade 3
+- [Scripts Python](https://github.com/aasouzaconsult/DC_Data-Analytics_01/tree/main/Scripts%20Python)
+
+-----------
+## Unidade 4
 
 -----------
 **Alex Souza**
