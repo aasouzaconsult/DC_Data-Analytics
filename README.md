@@ -5,7 +5,7 @@
   - [Vídeo - Introdução a SQL com PostgreSQL](https://www.youtube.com/watch?v=Y65qqzwAe5c)
 - [Arquivos (bases de dados)](https://github.com/aasouzaconsult/DC_Data-Analytics_01/tree/main/Arquivos)
 - [Scripts SQL](https://github.com/aasouzaconsult/DC_Data-Analytics_01/tree/main/Scripts%20SQL)
-- [Scripts Python](https://github.com/aasouzaconsult/DC_Data-Analytics_01/blob/main/README.md)
+- [Scripts Python](https://github.com/aasouzaconsult/DC_Data-Analytics_01/tree/main/Scripts%20Python)
 - Livros
   - [Sistemas de Banco de Dados](https://www.amazon.com.br/Sistemas-Banco-Dados-Ramez-Elmasri/dp/8543025001)
   - [e-book SQL](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/Ebook%20-%20SQL/SQL.pdf)
