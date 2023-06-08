@@ -39,6 +39,9 @@
 
 ### Módulo 4
 
+### Desafio Final
+  - [Desafio](https://blogdozouza.files.wordpress.com/2023/06/desafio-final-unidade-1.pdf) 
+
 -----------
 ## Unidade 2
 
