@@ -11,7 +11,7 @@
 ## Módulo 2 (Banco de Dados Dimensionais)
 - [Script DW (PostgreSQL)](https://gist.github.com/aasouzaconsult/a4fe12721f0ab53f2462b024ce438096)
 
-## Módulo 2 (SQL para Análise de Dados)
+## Módulo 3 (SQL para Análise de Dados)
 ### Resolução - Desafio SQL (13 Questões)
 - [Script (PostgreSQL)](https://gist.github.com/aasouzaconsult/2c8d3f17422e9214f8b6b8b5124afdf8--)
 
