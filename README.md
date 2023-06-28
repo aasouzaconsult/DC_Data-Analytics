@@ -36,8 +36,10 @@
   - Material de Estudo - [Link](https://medium.com/@aasouzaconsult/aprofundando-em-data-warehouse-65ed2bca9a33) 
 
 ### Módulo 3
-
+ - [Apresentação](https://github.com/aasouzaconsult/DC_Data-Analytics_01/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M3%20-%20SQL%20Avan%C3%A7ado%20-%20Alex%20Souza.pdf)
+   
 ### Módulo 4
+ - [Apresentação](https://github.com/aasouzaconsult/DC_Data-Analytics_01/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M4%20-%20NoSQL%20-%20Alex%20Souza.pdf)
 
 ### Desafio Final
   - [Desafio](https://blogdozouza.files.wordpress.com/2023/06/desafio-final-unidade-1.pdf) 
