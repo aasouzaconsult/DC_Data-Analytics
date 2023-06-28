@@ -42,7 +42,9 @@
  - [Apresentação](https://github.com/aasouzaconsult/DC_Data-Analytics_01/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M4%20-%20NoSQL%20-%20Alex%20Souza.pdf)
 
 ### Desafio Final
-  - [Desafio](https://blogdozouza.files.wordpress.com/2023/06/desafio-final-unidade-1.pdf) 
+  - [Desafio](https://blogdozouza.files.wordpress.com/2023/06/desafio-final-unidade-1.pdf)
+    - Exemplos de entregas
+      - [Exemplo 1](https://github.com/NayaraWakewski/Projeto-Digitall-Equipe-3) | [Exemplo 2](https://github.com/israelalvees/PROJETO-EXECUCAO-FINANCEIRA/tree/main)
 
 -----------
 ## Unidade 2
