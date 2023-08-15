@@ -53,7 +53,7 @@
   - [ETL](https://medium.com/blog-do-zouza/etl-extra%C3%A7%C3%A3o-transforma%C3%A7%C3%A3o-e-carga-simplificando-o-processo-de-an%C3%A1lise-de-dados-elt-631e3a56c8bb)
   - [KDD](https://medium.com/blog-do-zouza/knowledge-discovery-in-databases-kdd-462ea2775715)
   - [CRISP-DM](https://medium.com/blog-do-zouza/metodologia-crisp-dm-uma-abordagem-abrangente-para-projetos-de-dados-d7e7135b907e)
-
+  - [Download Pentaho](https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics/pentaho-community-edition.html) | [Download Java](https://www.oracle.com/br/java/technologies/downloads/#jdk20-windows)
 -----------
 ## Unidade 3
 - [Slides Aula]()
