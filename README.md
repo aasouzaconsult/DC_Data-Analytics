@@ -56,13 +56,13 @@
   - [Download Pentaho](https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics/pentaho-community-edition.html) | [Download Java](https://www.oracle.com/br/java/technologies/downloads/#jdk20-windows)
 -----------
 ## Unidade 3
-- [Slides Aula]()
+- [Slides Aula](https://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%203%20-%20Alex%20Souza.pdf)
 - [Scripts Python](https://github.com/aasouzaconsult/DC_Data-Analytics/tree/main/Python/Scripts%20Python)
 
 -----------
 ## Unidade 4
 - [Slides Aula]()
-
+- [Vídeo Introdução](https://www.youtube.com/watch?v=2VSF4IaF_OE)
 -----------
 **Alex Souza**
 - [Youtube](https://www.youtube.com/@alexsouzamsc)
