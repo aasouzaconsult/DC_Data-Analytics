@@ -2,7 +2,7 @@
 
 ## **Seção 1.1: Introdução ao Python**
 
-### **O que é Python?**
+### **O que é Python?** 🐍
 
 Python é uma linguagem de programação de alto nível, interpretada e de propósito geral, criada por Guido van Rossum e lançada em 1991. Ela é conhecida por sua simplicidade e clareza, o que a torna uma excelente opção para iniciantes em programação, bem como para profissionais que buscam uma linguagem versátil e poderosa.
 
@@ -35,7 +35,7 @@ Antes de começar a programar em Python, é necessário configurar seu ambiente 
 
 O Anaconda é uma distribuição popular que inclui o Python, juntamente com muitas bibliotecas essenciais para análise de dados e ciência de dados. Ele é especialmente útil para quem está iniciando na análise de dados, pois oferece uma maneira conveniente de configurar um ambiente de desenvolvimento completo. Nesta seção, abordaremos a instalação do Anaconda em diferentes sistemas operacionais.
 
-### **Passo 1: Baixar o Anaconda**
+### **Passo 1: Baixar o Anaconda** 🐍⬇️
 
 Acesse o site oficial do Anaconda (https://www.anaconda.com/products/distribution) e faça o download da versão adequada para o seu sistema operacional (Windows, macOS ou Linux). 
 
@@ -50,27 +50,21 @@ Acesse o site oficial do Anaconda (https://www.anaconda.com/products/distributio
 
 ### **Passo 3: Verificar a Instalação**
 
-Após a instalação, você pode verificar se o Anaconda foi instalado corretamente abrindo o terminal (ou prompt de comando no Windows) e digitando:
+Após a instalação, você pode verificar se o Anaconda foi instalado corretamente abrindo o **Anaconda Prompt** e digitando:
 
 ```bash
 conda --version
 ```
 
-Você deve ver a versão do Anaconda que foi instalada.
+Você deve ver a versão do *Anaconda* que foi instalada.
 
-### **Utilizando o Anaconda Navigator e o Jupyter Notebook**
+### **Utilizando o Anaconda Prompt e o Jupyter Notebook**
+Procure o **Anaconda Prompt**, e aponte para a pasta onde esta seus arquivos Python (no caso da imagem, esta no c:\python)
 
-O Anaconda Navigator é uma interface gráfica que facilita a criação e gestão de ambientes virtuais, instalação de pacotes e lançamento de aplicativos como o Jupyter Notebook.
+![](https://blogdozouza.files.wordpress.com/2023/08/anaconda1.png)
 
-1. No terminal, digite o seguinte comando para iniciar o Anaconda Navigator:
-
-```bash
-anaconda-navigator
-```
-
-2. No Anaconda Navigator, você pode criar e gerenciar ambientes virtuais e instalar pacotes necessários.
-
-3. Para iniciar o Jupyter Notebook, clique no botão "Launch" ao lado do Jupyter Notebook na seção "Home" do Anaconda Navigator.
+E para abrir o Jupyter Notebook, basta digitar: *jupyter notebook* no prompt
+![](https://blogdozouza.files.wordpress.com/2023/08/anaconda2.png)
 
 ### Conhecam também
 - [Google Colab](https://colab.research.google.com/)
@@ -239,18 +233,18 @@ else:
     print("Menor de idade")
 ```
 
-### **Loops (for e while)**
+### **Loops (for e while)** ➿
 
 Os loops permitem que você execute um bloco de código várias vezes.
 
-#### **Exemplo - Loop for:**
+#### **Exemplo - Loop for:** 
 
 ```python
 for i in range(5):
     print(i)
 ```
 
-#### **Exemplo - Loop while:**
+#### **Exemplo - Loop while:** ➿
 
 ```python
 contador = 0
