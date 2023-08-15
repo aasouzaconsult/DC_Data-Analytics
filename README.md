@@ -1,4 +1,4 @@
-# Formação de Data Analytics - Turma 1 (Sul) - Digital College
+# Formação de Data Analytics  - Digital College
 
 ## Ferramentas, Documentação e Links úteis
 - **Livros**
