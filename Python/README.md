@@ -1193,6 +1193,7 @@ print(df_juncao)
     - Profiling
     - SQL
     - Conexão com Postgres
+    - Aplicação Python para popular BD
 
 # Auxiliares
 - [Anaconda](https://www.anaconda.com/)
