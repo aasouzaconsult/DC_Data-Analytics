@@ -17,6 +17,3 @@
 
 ## Módulo 4 (NoSQL)
 - [Vídeo](https://www.youtube.com/watch?v=LYtgbSP5OMs)
-
---------
-# Unidade 2
