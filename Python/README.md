@@ -1,11 +1,5 @@
 # Capítulo 1: Introdução ao Python e Ambiente de Desenvolvimento
 
-## Seção 1.1: Introdução ao Python
-
-Claro! Aqui está a Seção 1.1: Introdução ao Python, detalhando o que é Python e destacando suas vantagens para a análise de dados:
-
----
-
 ## **Seção 1.1: Introdução ao Python**
 
 ### **O que é Python?**
@@ -121,6 +115,8 @@ temperaturas = (25.5, 28.0, 23.8)  # Tipo: tuple
 ativo = True  # Tipo: bool
 ```
 
+Explorem os comandos! 📚
+
 ---
 ## **Seção 2.2: Operadores e Expressões**
 
@@ -148,6 +144,8 @@ print(divisao)       # Saída: 3.3333333333333335
 print(resto)         # Saída: 1
 print(potencia)      # Saída: 1000
 ```
+
+Explorem os comandos! 📚
 
 ### **Operadores de Comparação**
 
@@ -1194,3 +1192,16 @@ print(df_juncao)
 
 # Capítulo 5: Outros
 - [Análise Exploratória de Dados - Exemplo](https://medium.com/@aasouzaconsult/python-para-an%C3%A1lise-de-dados-24028d7013b3)
+- [Scripts Python](https://github.com/aasouzaconsult/DC_Data-Analytics_01/tree/main/Python/Scripts%20Python)
+    - Clusterização
+    - Data Cleaning
+    - Missing Values
+    - Profiling
+    - SQL
+    - Conexão com Postgres
+
+# Auxiliares
+- [Anaconda](https://www.anaconda.com/)
+- [VS Code](https://code.visualstudio.com/download)
+- [Livro](https://www.amazon.com.br/Python-Para-An%C3%A1lise-Dados-Tratamento/dp/8575228412/)
+- [Curso Auxiliar](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science)
