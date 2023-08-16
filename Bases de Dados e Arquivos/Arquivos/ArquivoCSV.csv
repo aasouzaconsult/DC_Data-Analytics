@@ -1,0 +1,44 @@
+DataPedido,Regiao,Estado,Vendedor,Item,Unidades,PrecoUnidade
+7-Jun-2016,Nordeste,Pernambuco,Vendedor A,Geladeira,62,400.99
+11-Jul-2016,Nordeste,Paraíba,Vendedor B,Microondas,29,100.99
+20-Jul-2016,Sudeste,Minas Gerais,Vendedor I,Geladeira,55,1200.49
+19-Jul-2016,Nordeste,Bahia,Vendedor T,Microondas,81,1900.99
+16-Aug-2016,Sudeste,Rio de Janeiro,Vendedor F,Geladeira,42,2300.95
+22-Aug-2016,Nordeste,Alagoas,Vendedor A,Fogao,35,400.99
+24-Aug-2016,Sul,Santa Catarina,Vendedor N,Lavadora,3,2750
+10-Sep-2016,Sudeste,Minas Gerais,Vendedor S,Lavadora,2,1250
+10-Sep-2016,Sudeste,Rio de Janeiro,Vendedor D,Fogao,7,1000.29
+12-Sep-2016,Nordeste,Pernambuco,Vendedor A,Geladeira,16,1500.99
+26-Sep-2016,Sul,Rio Grande do Sul,Vendedor N,Fogao,76,1450.99
+15-Oct-2016,Sudeste,Minas Gerais,Vendedor I,Microondas,28,890.99
+14-Oct-2016,Sul,Rio Grande do Sul,Vendedor E,Microondas,57,1900.99
+22-Oct-2016,Nordeste,Sergipe,Vendedor A,Fogao,64,800.99
+31-Oct-2016,Sudeste,Rio de Janeiro,Vendedor R,Fogao,14,1340.29
+18-Nov-2016,Nordeste,Bahia,Vendedor T,Fogao,15,1900.99
+17-Nov-2016,Sudeste,Rio de Janeiro,Vendedor C,Microondas,11,1400.99
+22-Nov-2016,Sudeste,Minas Gerais,Vendedor F,Geladeira,96,1450.99
+14-Dec-2016,Sudeste,Rio de Janeiro,Vendedor C,Microondas,94,1900.99
+12-Dec-2016,Sudeste,Rio de Janeiro,Vendedor S,Fogao,67,1900.29
+21-Dec-2016,Sudeste,Rio de Janeiro,Vendedor R,Microondas,28,2400.99
+29-Dec-2016,Nordeste,Pernambuco,Vendedor T,Geladeira,74,1500.99
+16-Jan-2017,Nordeste,Ceará,Vendedor A,Fogao,95,1350.99
+5-Jan-2017,Sudeste,São Paulo,Vendedor D,Microondas,46,800.99
+23-Jan-2017,Sudeste,São Paulo,Vendedor F,Microondas,50,1900.99
+1-Feb-2017,Sudeste,São Paulo,Vendedor S,Microondas,87,1500
+9-Feb-2017,Sudeste,São Paulo,Vendedor C,Fogao,36,400.99
+18-Feb-2017,Nordeste,Ceará,Vendedor A,Microondas,4,1420.99
+26-Feb-2017,Sudeste,São Paulo,Vendedor D,Fogao,27,1999.99
+7-Mar-2017,Sul,Paraná,Vendedor N,Microondas,7,1900.99
+15-Mar-2017,Sul,Santa Catarina,Vendedor N,Fogao,56,2340.99
+24-Mar-2017,Sudeste,São Paulo,Vendedor C,Geladeira,50,1433.99
+1-Apr-2017,Nordeste,Pernanbumco,Vendedor A,Microondas,60,2400.99
+10-Apr-2017,Sudeste,São Paulo,Vendedor R,Fogao,66,1900.99
+18-Apr-2017,Sudeste,São Paulo,Vendedor R,Fogao,75,1800.99
+27-Apr-2017,Nordeste,Bahia,Vendedor B,Fogao,96,400.99
+5-May-2017,Sudeste,São Paulo,Vendedor C,Fogao,90,1422.99
+14-May-2017,Sudeste,São Paulo,Vendedor D,Fogao,53,1340.29
+22-May-2017,Sul,Rio Grande do Sul,Vendedor E,Fogao,32,1700.99
+31-May-2017,Sudeste,São Paulo,Vendedor D,Microondas,80,800.99
+8-Jun-2017,Nordeste,Rio Grande do Norte,Vendedor A,Microondas,60,800.99
+10-Jun-2017,Sudeste,São Paulo,Vendedor F,Lavadora,5,1250
+11-Jun-2017,Sudeste,São Paulo,Vendedor I,Fogao,90,400.99
