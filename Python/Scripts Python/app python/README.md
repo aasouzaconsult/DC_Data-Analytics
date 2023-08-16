@@ -58,7 +58,9 @@ ou
 http://localhost:5000
 ```
 
-Isso o levará à página inicial da sua aplicação Flask.
+Isso o levará à página inicial da sua aplicação **Flask**.
+
+![](https://blogdozouza.files.wordpress.com/2023/08/tela.png)
 
 A partir daí, você pode interagir com a aplicação, adicionar registros, editar e excluir informações na tabela `tabela_crud` do banco de dados PostgreSQL.
 
