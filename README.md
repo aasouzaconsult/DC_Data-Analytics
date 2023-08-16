@@ -50,6 +50,7 @@
 ## Unidade 2
   - [Slides Aula](https://github.com/aasouzaconsult/DC_Data-Analytics_01/blob/main/Slides%20Aula/Aulas%20Unidade%202%20-%20Alex%20Souza.pdf)
   - [Material Auxiliar](https://www.youtube.com/watch?v=NMxI4j7g4Ps&list=PLo04OWzokNVCD5LdnGGg8ssjGmIYbTyCG)
+  - [Exemplos de Transformações no Pentaho](https://github.com/aasouzaconsult/DC_Data-Analytics/tree/main/Transformacoes)
   - [ETL](https://medium.com/blog-do-zouza/etl-extra%C3%A7%C3%A3o-transforma%C3%A7%C3%A3o-e-carga-simplificando-o-processo-de-an%C3%A1lise-de-dados-elt-631e3a56c8bb)
   - [KDD](https://medium.com/blog-do-zouza/knowledge-discovery-in-databases-kdd-462ea2775715)
   - [CRISP-DM](https://medium.com/blog-do-zouza/metodologia-crisp-dm-uma-abordagem-abrangente-para-projetos-de-dados-d7e7135b907e)
