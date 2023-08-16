@@ -2,7 +2,22 @@
 
 ## 1. Crie o banco de dados e tabela (SQL.sql)
 
-Primeiro, certifique-se de ter um banco de dados PostgreSQL configurado e crie a tabela `tabela_crud`. Você pode fazer isso executando os comandos SQL necessários - arquivo: `SQL.sql`.
+Primeiro, certifique-se de ter um banco de dados PostgreSQL configurado e crie a tabela `tabela_crud`. Você pode fazer isso executando os comandos SQL necessários abaixo:
+
+```sql
+-- Criando o banco de dados no PostgreSQL
+create database db_teste;
+
+-- Criando uma tabela
+create table tabela_crud (
+    id serial,
+	name varchar(100),
+	email varchar(100)
+);
+
+-- Consultando a tabela
+select * from tabela_crud;
+```
 
 ## 2. Abra o Prompt de Comando na pasta "app python"
 
