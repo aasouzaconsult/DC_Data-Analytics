@@ -31,23 +31,23 @@
     - [Vídeo - Introdução a SQL com PostgreSQL](https://www.youtube.com/watch?v=Y65qqzwAe5c)
 
 ### Módulo 2 (Banco de Dados Dimensionais)
-  [//]: # - [Apresentação](https://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M2%20-%20BD%20Dimensionais%20-%20Alex%20Souza.pdf)
-  [//]:- Material de Estudo - [Link](https://medium.com/@aasouzaconsult/aprofundando-em-data-warehouse-65ed2bca9a33) 
+  - [Apresentação](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M2%20-%20BD%20Dimensionais%20-%20Alex%20Souza.pdf)
+  - Material de Estudo - [Link](https://medium.com/@aasouzaconsult/aprofundando-em-data-warehouse-65ed2bca9a33) 
 
 ### Módulo 3
- [//]:- [Apresentação](https://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M3%20-%20SQL%20Avan%C3%A7ado%20-%20Alex%20Souza.pdf)
+  - [Apresentação](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M3%20-%20SQL%20Avan%C3%A7ado%20-%20Alex%20Souza.pdf)
    
 ### Módulo 4
- [//]:- [Apresentação](https://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M4%20-%20NoSQL%20-%20Alex%20Souza.pdf)
+  - [Apresentação](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M4%20-%20NoSQL%20-%20Alex%20Souza.pdf)
 
 ### Desafio Final
-  [//]:- [Desafio](https://blogdozouza.files.wordpress.com/2023/06/desafio-final-unidade-1.pdf)
-    [//]:- Exemplos de entregas
-      [//]:- [Exemplo](https://github.com/israelalvees/PROJETO-EXECUCAO-FINANCEIRA/tree/main)
+  - [Desafio](https://blogdozouza.files.wordpress.com/2023/06/desafio-final-unidade-1.pdf)
+    - Exemplos de entregas
+      - [Exemplo](h_ttps://github.com/israelalvees/PROJETO-EXECUCAO-FINANCEIRA/tree/main)
 
 -----------
 ## Unidade 2
-  [//]:- [Slides Aula](https://github.com/aasouzaconsult/DC_Data-Analytics_01/blob/main/Slides%20Aula/Aulas%20Unidade%202%20-%20Alex%20Souza.pdf)
+  - [Slides Aula](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics_01/blob/main/Slides%20Aula/Aulas%20Unidade%202%20-%20Alex%20Souza.pdf)
   - [Material Auxiliar](https://www.youtube.com/watch?v=NMxI4j7g4Ps&list=PLo04OWzokNVCD5LdnGGg8ssjGmIYbTyCG)
   - [Exemplos de Transformações no Pentaho](https://github.com/aasouzaconsult/DC_Data-Analytics/tree/main/Transformacoes)
   - [ETL](https://medium.com/blog-do-zouza/etl-extra%C3%A7%C3%A3o-transforma%C3%A7%C3%A3o-e-carga-simplificando-o-processo-de-an%C3%A1lise-de-dados-elt-631e3a56c8bb)
@@ -56,12 +56,12 @@
   - [Download Pentaho](https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics/pentaho-community-edition.html) | [Download Java](https://www.oracle.com/br/java/technologies/downloads/#jdk20-windows)
 -----------
 ## Unidade 3
-[//]:- [Slides Aula](https://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%203%20-%20Alex%20Souza.pdf)
-[//]:- [Scripts Python](https://github.com/aasouzaconsult/DC_Data-Analytics/tree/main/Python/Scripts%20Python)
+- [Slides Aula](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%203%20-%20Alex%20Souza.pdf)
+- [Scripts Python](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics/tree/main/Python/Scripts%20Python)
 
 -----------
 ## Unidade 4
-[//]:- [Slides Aula](https://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%204%20-%20Alex%20Souza.pdf)
+- [Slides Aula](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%204%20-%20Alex%20Souza.pdf)
 - [Vídeo Introdução](https://www.youtube.com/watch?v=2VSF4IaF_OE)
 -----------
 **Alex Souza**
