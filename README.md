@@ -31,7 +31,7 @@
     - [Vídeo - Introdução a SQL com PostgreSQL](https://www.youtube.com/watch?v=Y65qqzwAe5c)
 
 ### Módulo 2 (Banco de Dados Dimensionais)
-  [//]:- [Apresentação](https://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M2%20-%20BD%20Dimensionais%20-%20Alex%20Souza.pdf)
+  [//]: # - [Apresentação](https://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M2%20-%20BD%20Dimensionais%20-%20Alex%20Souza.pdf)
   [//]:- Material de Estudo - [Link](https://medium.com/@aasouzaconsult/aprofundando-em-data-warehouse-65ed2bca9a33) 
 
 ### Módulo 3
