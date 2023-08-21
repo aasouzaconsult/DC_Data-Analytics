@@ -60,7 +60,7 @@
 
 -----------
 ## Unidade 4
-- [Slides Aula]()
+- [Slides Aula](https://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%204%20-%20Alex%20Souza.pdf)
 - [Vídeo Introdução](https://www.youtube.com/watch?v=2VSF4IaF_OE)
 -----------
 **Alex Souza**
