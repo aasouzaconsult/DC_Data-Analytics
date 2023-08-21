@@ -17,8 +17,6 @@
 - **Links úteis**
   - [PostgreSQL online (só para testes)](https://sqliteonline.com/)
   - [Discord - Canal de Comunicação] (https://discord.gg/kP4D7QGNVg)
-- **Feedbacks e impressões**
-  - [Fase 1](https://easyretro.io/publicboard/CW2kckTmvghjpmjGGmq39rflxkQ2/ff10a256-b4e3-40e5-81f2-0da1dda7e3e7)
 
 -----------
 ## Unidade 1
