@@ -44,7 +44,7 @@
 ### Desafio Final
   - [Desafio](https://blogdozouza.files.wordpress.com/2023/06/desafio-final-unidade-1.pdf)
     - Exemplos de entregas
-      - [Exemplo 1](https://github.com/NayaraWakewski/Projeto-Digitall-Equipe-3) | [Exemplo 2](https://github.com/israelalvees/PROJETO-EXECUCAO-FINANCEIRA/tree/main)
+      - [Exemplo](https://github.com/israelalvees/PROJETO-EXECUCAO-FINANCEIRA/tree/main)
 
 -----------
 ## Unidade 2
