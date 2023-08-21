@@ -27,7 +27,8 @@
   - Auxiliares
     - [Excel para Análise de Dados](https://github.com/aasouzaconsult/DC_Data-Analytics_01/tree/main/Excel%20para%20An%C3%A1lise%20de%20Dados)
     - [Vídeo - Introdução a SQL com PostgreSQL](https://www.youtube.com/watch?v=Y65qqzwAe5c)
-    
+
+[//]: # (This may be the most platform independent comment)
 
 ### Módulo 2 (Banco de Dados Dimensionais)
   - [Apresentação](https://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M2%20-%20BD%20Dimensionais%20-%20Alex%20Souza.pdf)
