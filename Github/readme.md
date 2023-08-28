@@ -16,6 +16,9 @@ Bem-vindo ao Template de Projeto Iniciante! Este é um guia abrangente para ajud
 - ~~Tachado~~: Use dois til (\~\~) para adicionar um texto tachado.
 
 ### Imagem
+> [!NOTE]  
+> Adicione uma imagem no próprio git, ou em algum onedrive ou google drive, para ter um link.
+
 ![Logo](https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2021/10/hello-1024x203.png.webp)
 
 ### Link
@@ -74,6 +77,6 @@ saudacao("Turma")
 > Aqui é a marcação de alguma observação, aviso importante
 
 ## Referências
-- [Manual 1](https://gist.github.com/AlexandreQuintela/168e6fa0b6fc5c740c8658c9a5086914)
-- [Manual 2](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Manual 3](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+- [Github - Dicas gerais](https://gist.github.com/AlexandreQuintela/168e6fa0b6fc5c740c8658c9a5086914)
+- [Github - Escrita e Formatação](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Github - Criando tabelas](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
