@@ -82,8 +82,7 @@ saudacao("Turma")
 - [Github - Criando tabelas](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 
-[![author](https://img.shields.io/badge/Author-AlexSouza-blue.svg)](https://linktr.ee/data.z) 
-[![Language](https://img.shields.io/badge/Language-sql-etl-python-pbi)](https://medium.com/blog-do-zouza) 
+[![author](https://img.shields.io/badge/Author-AlexSouza-blue.svg)](https://linktr.ee/data.z)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html) 
 [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/aasouzaconsult/Cientista-de-Dados)
 
