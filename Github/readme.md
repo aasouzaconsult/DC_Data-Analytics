@@ -2,6 +2,12 @@
 
 Bem-vindo ao Template de Projeto Iniciante! Este é um guia abrangente para ajudar você a começar com seus projetos no GitHub. Aqui, vamos explorar várias funcionalidades importantes para tornar seu README informativo e atraente.
 
+> [!IMPORTANT]  
+> Guarde para uso futuro em atividades!
+
+> [!WARNING]  
+> Todas as entregas serão pelo [Github](https://github.com/)
+
 ## Funcionalidades
 
 ### Formatação de Texto
