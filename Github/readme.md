@@ -80,3 +80,11 @@ saudacao("Turma")
 - [Github - Dicas gerais](https://gist.github.com/AlexandreQuintela/168e6fa0b6fc5c740c8658c9a5086914)
 - [Github - Escrita e Formatação](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Github - Criando tabelas](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
+
+[![author](https://img.shields.io/badge/Author-AlexSouza-blue.svg)](https://linktr.ee/zouza) 
+[![Language](https://img.shields.io/badge/Language-Python|R-green.svg)](https://www.python.org/downloads/release/python-365/) 
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html) 
+[![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/aasouzaconsult/Cientista-de-Dados)
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/29084827/164712340-6b03015f-a428-4731-b1b9-a5605de203b2.svg)
