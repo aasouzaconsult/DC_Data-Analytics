@@ -59,10 +59,10 @@ saudacao("Turma")
 
 ### Alertas
 > [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> Aqui é uma nota!
 
 > [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
+> Aqui é a marcação de algo importante
 
 > [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
+> Aqui é a marcação de alguma observação, aviso importante
