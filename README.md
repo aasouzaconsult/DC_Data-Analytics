@@ -2,6 +2,10 @@
 
 # Formação de Data Analytics  - Digital College
 
+## Algoritmos / Lógica
+- [Curso básico](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
+- [Leitura sobre Algoritmos](https://github.com/aasouzaconsult/Algoritmos)
+
 ## Ferramentas, Documentação e Links úteis
 - **Livros**
   - [Sistemas de Banco de Dados](https://www.amazon.com.br/Sistemas-Banco-Dados-Ramez-Elmasri/dp/8543025001)
