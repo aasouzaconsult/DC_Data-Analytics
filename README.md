@@ -70,7 +70,7 @@
 - [Vídeo Introdução](https://www.youtube.com/watch?v=2VSF4IaF_OE)
 - Dicas
   - Dimensão Calendário [1](https://github.com/joaoaraujo21/PowerQuery/blob/main/dCalendario) |
-  - [Gerar Link Público](https://www.youtube.com/watch?v=3dMmzsOD4tY)
+  - [Gerar Link Público](https://www.youtube.com/watch?v=faCW6Hsa9iI)
 -----------
 **Alex Souza**
 - [Youtube](https://www.youtube.com/@alexsouzamsc)
