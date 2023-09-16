@@ -69,7 +69,8 @@
 - [Slides Aula](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%204%20-%20Alex%20Souza.pdf)
 - [Vídeo Introdução](https://www.youtube.com/watch?v=2VSF4IaF_OE)
 - Dicas
-  - Dimensão Calendário [1](https://github.com/joaoaraujo21/PowerQuery/blob/main/dCalendario) | 
+  - Dimensão Calendário [1](https://github.com/joaoaraujo21/PowerQuery/blob/main/dCalendario) |
+  - [Gerar Link Público](https://www.youtube.com/watch?v=3dMmzsOD4tY)
 -----------
 **Alex Souza**
 - [Youtube](https://www.youtube.com/@alexsouzamsc)
