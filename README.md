@@ -8,6 +8,7 @@
 
 ## Ferramentas, Documentação e Links úteis
 - **Livros**
+  - [Modelagem de Dados](https://blogdozouza.files.wordpress.com/2023/09/modelagem-de-banco-de-dados-paulo-henrique-cayres-escola-superior-de-redes-2015-rede-nacional-de-ensino-e-pesquisa-e28093-rnp-9788563630506-37caf95a2d36bf7ac5dfc4456c143e28-annas-archive.pdf)
   - [Sistemas de Banco de Dados](https://www.amazon.com.br/Sistemas-Banco-Dados-Ramez-Elmasri/dp/8543025001)
   - [e-book SQL](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/Ebook%20-%20SQL/SQL.pdf)
 - **Modelagem Conceitual**
