@@ -467,32 +467,6 @@ carro1.dirigir()  # Saída: Dirigindo o Toyota Corolla
 carro2.dirigir()  # Saída: Dirigindo o Honda Civic
 ```
 
-#### Self
-Em Python, `self` é uma convenção usada para se referir ao próprio objeto criado a partir de uma classe. É o primeiro parâmetro de todos os métodos em uma classe e é usado para acessar os atributos e métodos do objeto atual. O nome `self` não é uma palavra-chave reservada em Python, mas é uma convenção amplamente adotada e considerada uma boa prática de programação.
-
-Ao usar `self` como o primeiro parâmetro em métodos de classe, você está dizendo ao interpretador Python que você deseja acessar ou modificar atributos específicos da instância atual da classe, em vez de variáveis globais ou locais. Isso torna mais claro qual instância está sendo referenciada, especialmente em situações em que há várias instâncias da mesma classe.
-
-Aqui está um exemplo de como `self` é usado em uma classe:
-
-```python
-class Pessoa:
-    def __init__(self, nome, idade):
-        self.nome = nome
-        self.idade = idade
-
-    def apresentar(self):
-        return f"Meu nome é {self.nome} e tenho {self.idade} anos."
-
-# Criando um objeto da classe Pessoa
-pessoa1 = Pessoa("Alice", 30)
-
-# Chamando o método apresentar usando o objeto pessoa1
-mensagem = pessoa1.apresentar()
-print(mensagem)  # Saída: Meu nome é Alice e tenho 30 anos.
-```
-
-Neste exemplo, `self` é usado para acessar os atributos `nome` e `idade do objeto `pessoa1`. Dessa forma, você pode acessar as informações específicas da instância atual da classe.
-
 ### 2. Atributos:
 
 Os atributos são variáveis que armazenam informações sobre o objeto. Eles são definidos na classe e acessados pelos objetos.
@@ -557,6 +531,32 @@ print(f"{cachorro.nome} faz o som: {cachorro.fazer_som()}")  # Saída: Rex faz o
 print(f"{gato.nome} faz o som: {gato.fazer_som()}")  # Saída: Whiskers faz o som: Miau
 ```
 Esses são os conceitos fundamentais da orientação a objetos em Python. Classes, objetos, atributos, métodos e herança são amplamente usados para criar programas orientados a objetos em Python.
+
+#### Self
+Em Python, `self` é uma convenção usada para se referir ao próprio objeto criado a partir de uma classe. É o primeiro parâmetro de todos os métodos em uma classe e é usado para acessar os atributos e métodos do objeto atual. O nome `self` não é uma palavra-chave reservada em Python, mas é uma convenção amplamente adotada e considerada uma boa prática de programação.
+
+Ao usar `self` como o primeiro parâmetro em métodos de classe, você está dizendo ao interpretador Python que você deseja acessar ou modificar atributos específicos da instância atual da classe, em vez de variáveis globais ou locais. Isso torna mais claro qual instância está sendo referenciada, especialmente em situações em que há várias instâncias da mesma classe.
+
+Aqui está um exemplo de como `self` é usado em uma classe:
+
+```python
+class Pessoa:
+    def __init__(self, nome, idade):
+        self.nome = nome
+        self.idade = idade
+
+    def apresentar(self):
+        return f"Meu nome é {self.nome} e tenho {self.idade} anos."
+
+# Criando um objeto da classe Pessoa
+pessoa1 = Pessoa("Alice", 30)
+
+# Chamando o método apresentar usando o objeto pessoa1
+mensagem = pessoa1.apresentar()
+print(mensagem)  # Saída: Meu nome é Alice e tenho 30 anos.
+```
+Neste exemplo, `self` é usado para acessar os atributos `nome` e `idade do objeto `pessoa1`. Dessa forma, você pode acessar as informações específicas da instância atual da classe.
+
 
 # Capítulo 3: Bibliotecas Fundamentais para Análise de Dados
 
