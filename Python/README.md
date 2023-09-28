@@ -518,6 +518,95 @@ pip install numpy pandas matplotlib
 ---
 ## **Seção 3.2: Trabalhando com NumPy**
 
+### Contextualizando Listas, Dicionários e Tuplas 
+
+**Listas (Lists):**
+Uma lista em Python é uma coleção ordenada de itens. Você pode armazenar diferentes tipos de dados em uma lista, como números, strings e até mesmo outras listas. As listas são mutáveis, o que significa que você pode adicionar, remover e modificar elementos.
+
+Exemplo de criação de uma lista e operações comuns:
+
+```python
+# Criando uma lista de números
+lista_numeros = [1, 2, 3, 4, 5]
+
+# Adicionando um elemento ao final da lista
+lista_numeros.append(6)
+
+# Acessando elementos da lista pelo índice (começando em 0)
+primeiro_elemento = lista_numeros[0]
+
+# Modificando um elemento da lista
+lista_numeros[2] = 10
+
+# Removendo um elemento da lista
+lista_numeros.remove(4)
+
+# Verificando o comprimento da lista
+tamanho = len(lista_numeros)
+
+# Iterando pela lista
+for numero in lista_numeros:
+    print(numero)
+```
+
+**Dicionários (Dictionaries):**
+Um dicionário em Python é uma coleção de pares chave-valor. Cada valor é associado a uma chave única, o que permite a recuperação eficiente dos valores com base em suas chaves. Os dicionários são mutáveis.
+
+Exemplo de criação de um dicionário e operações comuns:
+
+```python
+# Criando um dicionário de informações de uma pessoa
+pessoa = {
+    "nome": "João",
+    "idade": 30,
+    "cidade": "São Paulo"
+}
+
+# Acessando valores no dicionário
+nome = pessoa["nome"]
+idade = pessoa["idade"]
+
+# Adicionando um novo par chave-valor
+pessoa["profissão"] = "Engenheiro"
+
+# Modificando um valor no dicionário
+pessoa["idade"] = 31
+
+# Removendo um par chave-valor do dicionário
+del pessoa["cidade"]
+
+# Verificando se uma chave existe no dicionário
+if "cidade" in pessoa:
+    print("Cidade:", pessoa["cidade"])
+```
+
+**Tuplas (Tuples):**
+Uma tupla em Python é uma coleção ordenada e imutável de elementos. Uma vez criada, uma tupla não pode ser alterada. Tuplas são frequentemente usadas para representar estruturas de dados imutáveis.
+
+Exemplo de criação de uma tupla e operações comuns:
+
+```python
+# Criando uma tupla de coordenadas
+coordenadas = (3, 4)
+
+# Acessando elementos da tupla pelo índice
+x = coordenadas[0]
+y = coordenadas[1]
+
+# Desempacotando uma tupla em variáveis
+x, y = coordenadas
+
+# Concatenando tuplas
+outras_coordenadas = (1, 2)
+todas_coordenadas = coordenadas + outras_coordenadas
+
+# Verificando o comprimento de uma tupla
+tamanho = len(coordenadas)
+```
+
+Lembre-se de que listas e dicionários são mutáveis, o que significa que você pode modificar seus elementos, enquanto as tuplas são imutáveis. A escolha entre eles depende das necessidades específicas do seu programa.
+
+
 ### **Introdução ao NumPy**
 
 O NumPy é uma biblioteca fundamental para análise de dados em Python, oferecendo suporte a arrays multidimensionais e uma ampla variedade de funções matemáticas. Ele é a base para muitas outras bibliotecas usadas em ciência de dados e análise numérica.
