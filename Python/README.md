@@ -443,7 +443,7 @@ except SaldoInsuficienteError as e:
 ## **Seção 2.6: Orientação a Objetos**
 A orientação a objetos é um paradigma de programação que se baseia em objetos, que são instâncias de classes. Em Python, a orientação a objetos é uma parte fundamental da linguagem e é usada extensivamente. Vou explicar os conceitos básicos da orientação a objetos em Python e fornecer exemplos para ilustrar esses conceitos.
 
-**1. Classes e Objetos:**
+### 1. Classes e Objetos:
 
 Uma classe é um modelo ou plano para criar objetos. Ela define os atributos (variáveis) e métodos (funções) que os objetos dessa classe terão. Os objetos são instâncias de uma classe.
 
@@ -467,7 +467,7 @@ carro1.dirigir()  # Saída: Dirigindo o Toyota Corolla
 carro2.dirigir()  # Saída: Dirigindo o Honda Civic
 ```
 
-### Self
+#### Self
 Em Python, `self` é uma convenção usada para se referir ao próprio objeto criado a partir de uma classe. É o primeiro parâmetro de todos os métodos em uma classe e é usado para acessar os atributos e métodos do objeto atual. O nome `self` não é uma palavra-chave reservada em Python, mas é uma convenção amplamente adotada e considerada uma boa prática de programação.
 
 Ao usar `self` como o primeiro parâmetro em métodos de classe, você está dizendo ao interpretador Python que você deseja acessar ou modificar atributos específicos da instância atual da classe, em vez de variáveis globais ou locais. Isso torna mais claro qual instância está sendo referenciada, especialmente em situações em que há várias instâncias da mesma classe.
@@ -493,7 +493,7 @@ print(mensagem)  # Saída: Meu nome é Alice e tenho 30 anos.
 
 Neste exemplo, `self` é usado para acessar os atributos `nome` e `idade do objeto `pessoa1`. Dessa forma, você pode acessar as informações específicas da instância atual da classe.
 
-**2. Atributos:**
+### 2. Atributos:
 
 Os atributos são variáveis que armazenam informações sobre o objeto. Eles são definidos na classe e acessados pelos objetos.
 
@@ -509,7 +509,7 @@ pessoa1 = Pessoa("Alice", 30)
 print(f"{pessoa1.nome} tem {pessoa1.idade} anos.")  # Saída: Alice tem 30 anos
 ```
 
-**3. Métodos:**
+### 3. Métodos:
 
 Os métodos são funções definidas em uma classe que podem ser chamadas em objetos dessa classe. Eles realizam ações relacionadas a esse objeto.
 
@@ -528,7 +528,7 @@ area = círculo1.calcular_area()
 print(f"A área do círculo é {area}")  # Saída: A área do círculo é 78.5
 ```
 
-**4. Herança:**
+### 4. Herança:
 
 A herança permite criar uma nova classe com base em uma classe existente. A nova classe herda atributos e métodos da classe base.
 
@@ -556,7 +556,6 @@ gato = Gato("Whiskers")
 print(f"{cachorro.nome} faz o som: {cachorro.fazer_som()}")  # Saída: Rex faz o som: Au Au
 print(f"{gato.nome} faz o som: {gato.fazer_som()}")  # Saída: Whiskers faz o som: Miau
 ```
-
 Esses são os conceitos fundamentais da orientação a objetos em Python. Classes, objetos, atributos, métodos e herança são amplamente usados para criar programas orientados a objetos em Python.
 
 # Capítulo 3: Bibliotecas Fundamentais para Análise de Dados
