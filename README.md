@@ -31,7 +31,6 @@
 ### Módulo 1 (Banco de Dados Relacionais)
   - [Apresentação](https://github.com/aasouzaconsult/DC_Data-Analytics_01/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M1%20-%20BD%20Relacionais%20-%20Alex%20Souza.pdf)
   - [Scripts](https://github.com/aasouzaconsult/DC_Data-Analytics_01/tree/main/Scripts%20SQL)
-  - [Template Github]()
   - Auxiliares
     - [Excel para Análise de Dados](https://github.com/aasouzaconsult/DC_Data-Analytics_01/tree/main/Excel%20para%20An%C3%A1lise%20de%20Dados)
     - [Vídeo - Introdução a SQL com PostgreSQL](https://www.youtube.com/watch?v=Y65qqzwAe5c)
@@ -53,13 +52,18 @@
 
 -----------
 ## Unidade 2
-  - [Slides Aula](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics_01/blob/main/Slides%20Aula/Aulas%20Unidade%202%20-%20Alex%20Souza.pdf)
-  - [Material Auxiliar](https://www.youtube.com/watch?v=NMxI4j7g4Ps&list=PLo04OWzokNVCD5LdnGGg8ssjGmIYbTyCG)
-  - [Exemplos de Transformações no Pentaho](https://github.com/aasouzaconsult/DC_Data-Analytics/tree/main/Transformacoes)
   - [ETL](https://medium.com/blog-do-zouza/etl-extra%C3%A7%C3%A3o-transforma%C3%A7%C3%A3o-e-carga-simplificando-o-processo-de-an%C3%A1lise-de-dados-elt-631e3a56c8bb)
   - [KDD](https://medium.com/blog-do-zouza/knowledge-discovery-in-databases-kdd-462ea2775715)
   - [CRISP-DM](https://medium.com/blog-do-zouza/metodologia-crisp-dm-uma-abordagem-abrangente-para-projetos-de-dados-d7e7135b907e)
-  - [Download Pentaho](https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics/pentaho-community-edition.html) | [Download Java](https://www.oracle.com/br/java/technologies/downloads/#jdk20-windows)
+    
+  - [Slides Aula](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics_01/blob/main/Slides%20Aula/Aulas%20Unidade%202%20-%20Alex%20Souza.pdf)
+    
+  - Pentaho
+    - [Download Pentaho](https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics/pentaho-community-edition.html) | [Download Java](https://www.oracle.com/br/java/technologies/downloads/#jdk20-windows)
+    - [Material Auxiliar](https://www.youtube.com/watch?v=NMxI4j7g4Ps&list=PLo04OWzokNVCD5LdnGGg8ssjGmIYbTyCG)
+    - [Exemplos de Transformações no Pentaho](https://github.com/aasouzaconsult/DC_Data-Analytics/tree/main/Transformacoes)
+    - [Construir um DW no Pentaho](https://powerbiexperience.com/pt/blog/como-construir-um-data-warehouse-dw-com-pentaho/)
+      
 -----------
 ## Unidade 3
 - [Slides Aula](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%203%20-%20Alex%20Souza.pdf)
@@ -72,6 +76,7 @@
 - Dicas
   - Dimensão Calendário [1](https://github.com/joaoaraujo21/PowerQuery/blob/main/dCalendario) |
   - [Gerar Link Público](https://www.youtube.com/watch?v=faCW6Hsa9iI)
+  
 -----------
 **Alex Souza**
 - [Youtube](https://www.youtube.com/@alexsouzamsc)
