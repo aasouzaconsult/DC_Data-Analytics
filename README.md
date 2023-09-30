@@ -56,7 +56,7 @@
   - [KDD](https://medium.com/blog-do-zouza/knowledge-discovery-in-databases-kdd-462ea2775715)
   - [CRISP-DM](https://medium.com/blog-do-zouza/metodologia-crisp-dm-uma-abordagem-abrangente-para-projetos-de-dados-d7e7135b907e)
     
-  - [Slides Aula](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics_01/blob/main/Slides%20Aula/Aulas%20Unidade%202%20-%20Alex%20Souza.pdf)
+  - [Slides Aula](https://github.com/aasouzaconsult/DC_Data-Analytics_01/blob/main/Slides%20Aula/Aulas%20Unidade%202%20-%20Alex%20Souza.pdf)
     
   - Pentaho
     - [Download Pentaho](https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics/pentaho-community-edition.html) | [Download Java](https://www.oracle.com/br/java/technologies/downloads/#jdk20-windows)
@@ -66,12 +66,12 @@
       
 -----------
 ## Unidade 3
-- [Slides Aula](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%203%20-%20Alex%20Souza.pdf)
+- [Slides Aula](https://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%203%20-%20Alex%20Souza.pdf)
 - [Scripts Python](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics/tree/main/Python/Scripts%20Python)
 
 -----------
 ## Unidade 4
-- [Slides Aula](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%204%20-%20Alex%20Souza.pdf)
+- [Slides Aula](https://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%204%20-%20Alex%20Souza.pdf)
 - [Vídeo Introdução](https://www.youtube.com/watch?v=2VSF4IaF_OE)
 - Dicas
   - Dimensão Calendário [1](https://github.com/joaoaraujo21/PowerQuery/blob/main/dCalendario) |
