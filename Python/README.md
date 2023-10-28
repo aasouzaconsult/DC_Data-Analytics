@@ -207,7 +207,7 @@ x -= 3  # Equivalente a x = x - 3
 x *= 2  # Equivalente a x = x * 2
 x /= 4  # Equivalente a x = x / 4
 
-print(x)  # Saída: 3.75
+print(x)  # Saída: 6
 ```
 
 ### **Expressões**
@@ -221,7 +221,7 @@ a = 10
 b = 3
 
 resultado = (a + b) * 2 - (a / b)
-print(resultado)  # Saída: 23.666666666666668
+print(resultado)  # Saída: 22.666666666666668
 ```
 
 ---
@@ -240,6 +240,22 @@ if idade >= 18:
     print("Maior de idade")
 else:
     print("Menor de idade")
+```
+
+Um exemplo mais completo:
+
+```python
+# Solicita ao usuário que informe se está bebendo água
+resposta = input("Você está bebendo água? (Sim ou Não): ")
+
+# Converte a resposta para letras minúsculas para ser mais flexível
+resposta = resposta.lower()
+
+# Verifica a resposta e fornece uma mensagem correspondente
+if resposta in ("sim","s","y", "yes","claro"):
+    print("Ótimo! Beber água é bom para a saúde.")
+else:
+    print("Cuidado! Se não beber água, pode acabar com pedra no rim.")
 ```
 
 ### **Loops (for e while)** ➿
