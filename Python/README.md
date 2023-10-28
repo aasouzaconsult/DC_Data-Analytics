@@ -109,6 +109,12 @@ temperaturas = (25.5, 28.0, 23.8)  # Tipo: tuple
 ativo = True  # Tipo: bool
 ```
 
+Verificar o tipo de dado:
+```python
+type(idade)
+type(nome)
+```
+
 #### **Converter tipo:**
 Booleano para String
 
