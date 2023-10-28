@@ -112,7 +112,6 @@ ativo = True  # Tipo: bool
 Verificar o tipo de dado:
 ```python
 type(idade)
-type(nome)
 ```
 
 #### **Converter tipo:**
