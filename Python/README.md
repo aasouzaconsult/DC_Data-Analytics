@@ -92,7 +92,7 @@ Python suporta vários tipos de dados, que podem ser agrupados em categorias pri
 
 - **Números:** Inteiros (int), números de ponto flutuante (float) e números complexos (complex).
 - **Texto:** Strings (str), que são sequências de caracteres.
-- **Sequências:** Listas (list), tuplas (tuple) e ranges.
+- **Sequências:** Listas (list), tuplas (tuple - imutável) e ranges.
 - **Mapeamento:** Dicionários (dict).
 - **Conjuntos:** Sets (set) e conjuntos congelados (frozenset).
 - **Booleanos:** Booleanos (bool), que representam os valores True ou False.
