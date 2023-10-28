@@ -109,6 +109,15 @@ temperaturas = (25.5, 28.0, 23.8)  # Tipo: tuple
 ativo = True  # Tipo: bool
 ```
 
+#### **Converter tipo:**
+Booleano para String
+
+```python
+ativo = str(ativo)
+
+ativo = bool(ativo) # volta para booleano
+```
+
 Explorem os comandos! 📚
 
 ---
