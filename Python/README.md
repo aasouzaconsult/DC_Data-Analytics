@@ -274,6 +274,12 @@ for i in range(5):
     print(i)
 ```
 
+```python
+# Frequencia (iniciando em 0, indo até 10, pulando de 2 em 2)
+for i in range(0,10,2):
+    print(i)
+```
+
 #### **Exemplo - Loop while:** ➿
 
 ```python
@@ -365,6 +371,26 @@ mensagem2 = saudacao("Antonio", "Oi")
 
 print(mensagem1)
 print(mensagem2)
+```
+
+### **Exemplo mais completo - Calculadora**
+```python
+def calculadora(num1, num2, operacao):
+    if operacao == "soma":
+        value = num1+num2
+        return print(f"A soma de {num1} e {num2} é igual a {value}")
+    elif operacao == "substracao":
+        value = num1-num2
+        return print(f"A substracao de {num1} e {num2} é igual a {value}")
+    elif operacao == "divisao":
+        value = num1/num2
+        return print(f"A divisao de {num1} e {num2} é igual a {value}")
+    elif operacao == "multiplicacao":
+        value = num1*num2
+        return print(f"A multiplicacao de {num1} e {num2} é igual a {value}")
+    else:
+        value = num1%num2
+        return (f"Já que não colocou nada, ou qualquer coisa, tá ai o módulo de {num1} e {num2} que é igual a {value}")
 ```
 
 ### **Modularização e Módulos**
