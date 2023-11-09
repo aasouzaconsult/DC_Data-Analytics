@@ -76,6 +76,8 @@
 - Dicas
   - Dimensão Calendário [1](https://github.com/joaoaraujo21/PowerQuery/blob/main/dCalendario) |
   - [Gerar Link Público](https://www.youtube.com/watch?v=faCW6Hsa9iI)
+- Sugestões e recomendações de leitura
+  - DRE ([link 1](https://xperiun.com/blog/dashboard-demonstrativo-de-resultado-dre-contabil-com-dax-avancado/) | [link 2](https://www.youtube.com/watch?v=CDu35brFR9o))
   
 -----------
 **Alex Souza**
