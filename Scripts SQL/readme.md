@@ -8,6 +8,9 @@
 ### Consultando Dados
 - [Script de Consultas (PostgreSQL)](https://gist.github.com/aasouzaconsult/7ef239cbe96899e1bb64a6e2329fff39)
 
+### Aulão SQL
+- [Aulão SQL](h_ttps://github.com/aasouzaconsult/auxiliares/blob/main/Diversos/aulaoSQL.md)
+
 ## Módulo 2 (Banco de Dados Dimensionais)
 - [Script DW (PostgreSQL)](h_ttps://gist.github.com/aasouzaconsult/a4fe12721f0ab53f2462b024ce438096)
 
