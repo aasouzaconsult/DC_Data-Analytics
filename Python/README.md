@@ -379,7 +379,7 @@ def calculadora(num1, num2, operacao):
     if operacao == "soma":
         value = num1+num2
         return print(f"A soma de {num1} e {num2} é igual a {value}")
-    elif operacao == "substracao":
+    elif operacao == "subtracao":
         value = num1-num2
         return print(f"A substracao de {num1} e {num2} é igual a {value}")
     elif operacao == "divisao":
