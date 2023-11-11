@@ -808,11 +808,6 @@ tamanho = len(coordenadas)
 
 Lembre-se de que listas e dicionários são mutáveis, o que significa que você pode modificar seus elementos, enquanto as tuplas são imutáveis. A escolha entre eles depende das necessidades específicas do seu programa.
 
-
-### **Introdução ao NumPy**
-
-O NumPy é uma biblioteca fundamental para análise de dados em Python, oferecendo suporte a arrays multidimensionais e uma ampla variedade de funções matemáticas. Ele é a base para muitas outras bibliotecas usadas em ciência de dados e análise numérica.
-
 ### **Arrays NumPy**
 
 O array NumPy é uma estrutura multidimensional que permite armazenar dados de forma eficiente.
