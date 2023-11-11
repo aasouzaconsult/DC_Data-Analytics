@@ -1046,6 +1046,7 @@ plt.ylabel('Eixo Y')
 plt.title('Gráfico de Dispersão')
 plt.show()
 ```
+*Outliers: Em estatística, são pontos de dados que se desviam significativamente do padrão geral de um conjunto de dados. Esses pontos são valores atípicos e podem distorcer a análise estatística, especialmente quando se está tentando tirar conclusões sobre a média e a variabilidade dos dados.* 
 
 ### **Histogramas**
 
@@ -1056,7 +1057,7 @@ Os histogramas são usados para visualizar a distribuição de dados.
 ```python
 import matplotlib.pyplot as plt
 
-dados = [20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70]
+dados = [20, 23, 25, 30, 32, 33, 35, 40, 45, 50, 55, 60, 65, 70]
 
 plt.hist(dados, bins=5, edgecolor='black')
 plt.xlabel('Valores')
