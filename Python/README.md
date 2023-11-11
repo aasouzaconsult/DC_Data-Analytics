@@ -648,6 +648,8 @@ media = np.mean(arr)
 
 O Pandas é uma biblioteca usada para análise e manipulação de dados em estruturas de dados tabulares, conhecidas como DataFrames.
 
+[download](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
+
 #### **Exemplo:**
 
 ```python
