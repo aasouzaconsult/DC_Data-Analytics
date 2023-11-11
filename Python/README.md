@@ -642,6 +642,7 @@ arr = np.array([1, 2, 3, 4, 5])
 dobro = arr * 2
 media = np.mean(arr)
 ```
+*Observação: [Diferença entre array e lista no Python](https://chat.openai.com/share/80ef8646-f68d-402f-884d-058e0f844889)*
 
 #### **Pandas**
 
@@ -653,8 +654,8 @@ O Pandas é uma biblioteca usada para análise e manipulação de dados em estru
 import pandas as pd
 
 # Criando um DataFrame
-data = {'Nome': ['Ana', 'João', 'Maria'],
-        'Idade': [25, 30, 22]}
+data = {'Nome': ['Ana', 'João', 'Maria', 'Alex'],
+        'Idade': [17, 30, 29, 42]}
 df = pd.DataFrame(data)
 
 # Filtrando dados
@@ -801,6 +802,23 @@ print(arr)        # Saída: [1 2 3 4 5]
 print(type(arr))  # Saída: <class 'numpy.ndarray'>
 ```
 
+### **Arrays dimensionais**
+
+```python
+import numpy as np
+
+# Criando uma matriz de 2 dimensões (3x3)
+matriz_2d = np.array([
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+])
+
+# Acessando elementos da matriz
+print(matriz_2d[0, 0])  # Saída: 1
+print(matriz_2d[1, 2])  # Saída: 6
+```
+
 ### **Operações com Arrays NumPy**
 
 O NumPy oferece uma ampla gama de operações matemáticas que podem ser aplicadas aos arrays.
@@ -878,8 +896,8 @@ Você pode criar um DataFrame a partir de dicionários, listas ou arquivos CSV.
 ```python
 import pandas as pd
 
-data = {'Nome': ['Ana', 'João', 'Maria'],
-        'Idade': [25, 30, 22]}
+data = {'Nome': ['Ana', 'João', 'Maria', 'Alex'],
+        'Idade': [17, 30, 29, 42]}
 
 df = pd.DataFrame(data)
 
@@ -895,16 +913,16 @@ O Pandas permite acessar e manipular dados em um DataFrame.
 ```python
 import pandas as pd
 
-data = {'Nome': ['Ana', 'João', 'Maria'],
-        'Idade': [25, 30, 22]}
+data = {'Nome': ['Ana', 'João', 'Maria', 'Alex'],
+        'Idade': [17, 30, 29, 42]}
 
 df = pd.DataFrame(data)
 
 nome = df['Nome']
 idade_media = df['Idade'].mean()
 
-print(nome)        # Saída: Ana, João, Maria
-print(idade_media) # Saída: 25.666666666666668
+print(nome)
+print(idade_media)
 ```
 
 ### **Filtrando Dados**
@@ -916,8 +934,8 @@ Você pode filtrar os dados com base em condições.
 ```python
 import pandas as pd
 
-data = {'Nome': ['Ana', 'João', 'Maria'],
-        'Idade': [25, 30, 22]}
+data = {'Nome': ['Ana', 'João', 'Maria', 'Alex'],
+        'Idade': [17, 30, 29, 42]}
 
 df = pd.DataFrame(data)
 
@@ -935,8 +953,8 @@ Você pode ordenar os dados de acordo com uma ou mais colunas.
 ```python
 import pandas as pd
 
-data = {'Nome': ['Ana', 'João', 'Maria'],
-        'Idade': [25, 30, 22]}
+data = {'Nome': ['Ana', 'João', 'Maria', 'Alex'],
+        'Idade': [25, 30, 22, 42]}
 
 df = pd.DataFrame(data)
 
@@ -954,8 +972,8 @@ O Pandas permite agrupar dados e realizar operações em grupos.
 ```python
 import pandas as pd
 
-data = {'Nome': ['Ana', 'João', 'Maria', 'Paulo', 'Luiza'],
-        'Idade': [25, 30, 22, 28, 24]}
+data = {'Nome': ['Ana', 'João', 'Maria', 'Alex', 'LuzIA'],
+        'Idade': [17, 30, 29, 42, 34]}
 
 df = pd.DataFrame(data)
 
@@ -1038,7 +1056,7 @@ Os histogramas são usados para visualizar a distribuição de dados.
 ```python
 import matplotlib.pyplot as plt
 
-dados = [20, 25, 30, 35, 40, 45, 50, 55, 60]
+dados = [20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70]
 
 plt.hist(dados, bins=5, edgecolor='black')
 plt.xlabel('Valores')
