@@ -758,6 +758,28 @@ del pessoa["cidade"]
 # Verificando se uma chave existe no dicionário
 if "cidade" in pessoa:
     print("Cidade:", pessoa["cidade"])
+
+# Você pode concatenar dict´s em uma lista
+
+# Dicionário para a primeira pessoa
+pessoa1 = {
+    'nome': 'João',
+    'idade': 31,
+    'profissão': 'Engenheiro'
+}
+
+# Dicionário para a segunda pessoa
+pessoa2 = {
+    'nome': 'Jose',
+    'idade': 89,
+    'profissão': 'Dados'
+}
+
+# Agora, se você quiser criar uma lista que contenha ambos os dicionários
+lista_pessoas = [pessoa1, pessoa2]
+
+# Imprimindo a lista de pessoas
+print(lista_pessoas)
 ```
 
 **Tuplas (Tuples):**
