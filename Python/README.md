@@ -1037,8 +1037,8 @@ Os gráficos de dispersão mostram a relação entre duas variáveis em um espa�
 ```python
 import matplotlib.pyplot as plt
 
-x = [1, 2, 3, 4, 5]
-y = [10, 8, 6, 4, 2]
+x = [1, 2, 3, 4, 5, 6]
+y = [10, 8, 6, 4, 2, 19]
 
 plt.scatter(x, y, color='red')
 plt.xlabel('Eixo X')
