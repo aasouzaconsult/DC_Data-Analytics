@@ -715,8 +715,11 @@ primeiro_elemento = lista_numeros[0]
 # Modificando um elemento da lista
 lista_numeros[2] = 10
 
-# Removendo um elemento da lista
+# Removendo um elemento da lista (remove o valor propriamente dito)
 lista_numeros.remove(4)
+
+# Removendo o valor pela posição na lista
+lista_numeros.pop(0)
 
 # Verificando o comprimento da lista
 tamanho = len(lista_numeros)
