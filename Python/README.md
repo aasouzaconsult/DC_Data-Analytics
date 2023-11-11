@@ -622,6 +622,11 @@ Neste exemplo, `self` é usado para acessar os atributos `nome` e `idade do obje
 
 Bibliotecas são conjuntos de módulos e funções pré-implementados que estendem as funcionalidades do Python. Elas são uma parte essencial da análise de dados, fornecendo ferramentas específicas para manipulação, visualização e processamento de dados.
 
+### **Instalação de Bibliotecas**
+```python
+!pip install <nomebiblioteca>
+```
+
 ### **NumPy, Pandas e Matplotlib**
 
 Nesta seção, apresentaremos três bibliotecas fundamentais para análise de dados: NumPy, Pandas e Matplotlib.
