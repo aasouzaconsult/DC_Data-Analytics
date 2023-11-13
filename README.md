@@ -2,6 +2,9 @@
 
 # Formação de Data Analytics  - Digital College
 
+## ZouzaGPT (Um GPT Especializado em Dados)
+- [ZouzaGPT](https://chat.openai.com/g/g-TI8xRV9Pg-zouzagpt)
+
 ## Algoritmos / Lógica
 - [Curso básico](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
 - [Leitura sobre Algoritmos](https://github.com/aasouzaconsult/Algoritmos)
