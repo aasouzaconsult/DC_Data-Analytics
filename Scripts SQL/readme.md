@@ -12,7 +12,7 @@
 - [Aulão SQL](https://github.com/aasouzaconsult/auxiliares/blob/main/Diversos/aulaoSQL.md)
 
 ## Módulo 2 (Banco de Dados Dimensionais)
-- [Script DW (PostgreSQL)](h_ttps://gist.github.com/aasouzaconsult/a4fe12721f0ab53f2462b024ce438096)
+- [Script DW (PostgreSQL)](https://gist.github.com/aasouzaconsult/a4fe12721f0ab53f2462b024ce438096)
 
 ## Módulo 3 (SQL para Análise de Dados)
 ### Resolução - Desafio SQL (13 Questões)
