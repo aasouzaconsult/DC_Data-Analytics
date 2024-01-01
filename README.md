@@ -81,7 +81,10 @@
   - [Gerar Link Público](https://www.youtube.com/watch?v=faCW6Hsa9iI)
 - Sugestões e recomendações de leitura
   - DRE ([link 1](https://xperiun.com/blog/dashboard-demonstrativo-de-resultado-dre-contabil-com-dax-avancado/) | [link 2](https://www.youtube.com/watch?v=CDu35brFR9o))
-  
+- Dicas
+  - [DAX Studio](https://daxstudio.org/)
+  - [Tabular Editor](https://www.sqlbi.com/tools/tabular-editor/)
+
 -----------
 **Alex Souza**
 - [Youtube](https://www.youtube.com/@alexsouzamsc)
