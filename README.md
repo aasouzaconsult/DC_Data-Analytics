@@ -3,7 +3,8 @@
 # Formação de Data Analytics  - Digital College
 
 ## ZouzaGPT (Um GPT Especializado em Dados)
-- [ZouzaGPT](https://chat.openai.com/g/g-TI8xRV9Pg-zouzagpt)
+- [ZouzaGPT](https://sites.google.com/view/alexsouza/home)
+- [ZouzaGPT para assinantes OpenAI](https://chat.openai.com/g/g-TI8xRV9Pg-zouzagpt)
 
 ## Algoritmos / Lógica
 - [Curso básico](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
@@ -43,15 +44,13 @@
   - Material de Estudo - [Link](https://medium.com/@aasouzaconsult/aprofundando-em-data-warehouse-65ed2bca9a33) 
 
 ### Módulo 3
-  - [Apresentação](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M3%20-%20SQL%20Avan%C3%A7ado%20-%20Alex%20Souza.pdf)
+  - [Apresentação](https://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M3%20-%20SQL%20Avan%C3%A7ado%20-%20Alex%20Souza.pdf)
    
 ### Módulo 4
-  - [Apresentação](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M4%20-%20NoSQL%20-%20Alex%20Souza.pdf)
+  - [Apresentação](https://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%201%20-%20M4%20-%20NoSQL%20-%20Alex%20Souza.pdf)
 
 ### Desafio Final
   - [Desafio](https://blogdozouza.files.wordpress.com/2023/11/desafio-final-unidade-1.pdf)
-    - Exemplos de entregas
-      - [Exemplo](h_ttps://github.com/israelalvees/PROJETO-EXECUCAO-FINANCEIRA/tree/main)
 
 -----------
 ## Unidade 2
@@ -70,7 +69,7 @@
 -----------
 ## Unidade 3
 - [Slides Aula](https://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%203%20-%20Alex%20Souza.pdf)
-- [Scripts Python](h_ttps://github.com/aasouzaconsult/DC_Data-Analytics/tree/main/Python/Scripts%20Python)
+- [Scripts Python](https://github.com/aasouzaconsult/DC_Data-Analytics/tree/main/Python/Scripts%20Python)
 
 -----------
 ## Unidade 4
@@ -79,11 +78,10 @@
 - Dicas
   - Dimensão Calendário [1](https://github.com/joaoaraujo21/PowerQuery/blob/main/dCalendario) |
   - [Gerar Link Público](https://www.youtube.com/watch?v=faCW6Hsa9iI)
-- Sugestões e recomendações de leitura
-  - DRE ([link 1](https://xperiun.com/blog/dashboard-demonstrativo-de-resultado-dre-contabil-com-dax-avancado/) | [link 2](https://www.youtube.com/watch?v=CDu35brFR9o))
-- Dicas
   - [DAX Studio](https://daxstudio.org/)
   - [Tabular Editor](https://www.sqlbi.com/tools/tabular-editor/)
+- Sugestões e recomendações de leitura
+  - DRE ([link 1](https://xperiun.com/blog/dashboard-demonstrativo-de-resultado-dre-contabil-com-dax-avancado/) | [link 2](https://www.youtube.com/watch?v=CDu35brFR9o))
 
 -----------
 **Alex Souza**
