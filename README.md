@@ -74,6 +74,8 @@
 -----------
 ## Unidade 4
 - [Slides Aula](https://github.com/aasouzaconsult/DC_Data-Analytics/blob/main/Slides%20Aula/Aulas%20Unidade%204%20-%20Alex%20Souza.pdf)
+- [Materiais PBI](https://github.com/aasouzaconsult/DC_Data-Analytics/tree/main/Power%20BI)
+  - Bases de dados | Exemplos de Fundos de Tela...
 - [Vídeo Introdução](https://www.youtube.com/watch?v=2VSF4IaF_OE)
 - Dicas
   - Dimensão Calendário [1](https://github.com/joaoaraujo21/PowerQuery/blob/main/dCalendario) |
