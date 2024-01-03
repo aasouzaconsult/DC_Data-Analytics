@@ -62,6 +62,7 @@
     
   - Pentaho
     - [Download Pentaho](https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics/pentaho-community-edition.html) | [Download Java](https://www.oracle.com/br/java/technologies/downloads/#jdk20-windows)
+    - [Documentação](https://help.hitachivantara.com/Documentation/Pentaho/Data_Integration_and_Analytics/10.0/Products/Transformation_step_reference)
     - [Material Auxiliar](https://www.youtube.com/watch?v=NMxI4j7g4Ps&list=PLo04OWzokNVCD5LdnGGg8ssjGmIYbTyCG)
     - [Exemplos de Transformações no Pentaho](https://github.com/aasouzaconsult/DC_Data-Analytics/tree/main/Transformacoes)
     - [Construir um DW no Pentaho](https://powerbiexperience.com/pt/blog/como-construir-um-data-warehouse-dw-com-pentaho/)
