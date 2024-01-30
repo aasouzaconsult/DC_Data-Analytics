@@ -16,7 +16,7 @@
 
 ## Módulo 3 (SQL para Análise de Dados)
 ### Resolução - Desafio SQL (13 Questões)
-- [Script SQL Avançado (PostgreSQL)](h_ttps://gist.github.com/aasouzaconsult/37e5e958b20f2fb7473f859b7591c61d)
+- [Script SQL Avançado (PostgreSQL)](https://gist.github.com/aasouzaconsult/37e5e958b20f2fb7473f859b7591c61d)
 
 ## Módulo 4 (NoSQL)
 - [Vídeo - NoSQL](https://www.youtube.com/watch?v=LYtgbSP5OMs)
