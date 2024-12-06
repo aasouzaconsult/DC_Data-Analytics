@@ -4,7 +4,7 @@
 
 ## ZouzaGPT (Um GPT Especializado em Dados)
 - [ZouzaGPT](https://sites.google.com/view/alexsouza/home)
-- [ZouzaGPT para assinantes OpenAI](https://chat.openai.com/g/g-TI8xRV9Pg-zouzagpt)
+- [ZouzaGPT - OpenAI](https://chat.openai.com/g/g-TI8xRV9Pg-zouzagpt)
 
 ## Algoritmos / Lógica
 - [Curso básico](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
