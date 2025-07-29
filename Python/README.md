@@ -104,8 +104,8 @@ Python suporta vários tipos de dados, que podem ser agrupados em categorias pri
 idade = 30  # Tipo: int
 nome = "Maria"  # Tipo: str
 notas = [8.5, 9.0, 7.5]  # Tipo: list
-dados_pessoais = {"nome": "Ana", "idade": 22}  # Tipo: dict
-temperaturas = (25.5, 28.0, 23.8)  # Tipo: tuple
+dados_pessoais = {"nome": "Ana", "idade": 22}  # Tipo: dict → mutável
+temperaturas = (25.5, 28.0, 23.8)  # Tipo: tuple → imutável
 ativo = True  # Tipo: bool
 ```
 
