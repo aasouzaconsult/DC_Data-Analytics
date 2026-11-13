@@ -166,7 +166,7 @@ Os materiais incluem referências a versões específicas das ferramentas. Confi
 
 - [**ZouzaGPT — página de acesso**](https://sites.google.com/view/alexsouza/home).
 - [**ZouzaGPT — GPT especializado em dados**](https://chat.openai.com/g/g-TI8xRV9Pg-zouzagpt).
-- [**Discord — canal de comunicação**](https://discord.gg/kP4D7QGNVg).
+- [**Telegram — Mestre dos Dados**](https://t.me/mestredosdados).
 
 Use os recursos de IA como apoio ao aprendizado: confira as respostas, teste as consultas e procure entender as escolhas feitas no código e na análise.
 
